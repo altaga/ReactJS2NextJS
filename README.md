@@ -1,2 +1,1 @@
-# ReactJS2NextJS
- Tutorial Basico de como adaptar el proyecto basico de ReactJS con NextJS
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
