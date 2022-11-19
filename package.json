@@ -11,7 +11,7 @@
     "@svgr/webpack": "^5.5.0",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
-    "next": "^11.1.1",
+    "next": "^13.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "remark": "^13.0.0",
